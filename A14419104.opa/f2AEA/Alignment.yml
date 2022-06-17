@@ -1,0 +1,19 @@
+segment_sources:
+  I7BB349D3:
+    type: origin_type
+    relation: translation
+    language: en
+  IEC49DE20:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  45f5e7b3e3d847d1b18f5119abc94079:
+    I7BB349D3: a99dc3acb9f4413187c0e7dd481fc584
+    IEC49DE20: 849caaa987a34dfdb65b0bd9c6fd39e4
+  cbf1547f65f249fa91768ff23e1af1a9:
+    I7BB349D3: 0b6d79df86304567a5dd118e329ac846
+    IEC49DE20: 3a90b400c85c4123bc42d8a84ffe381a
+  d25d4f5295de46f886703b9d60059d3e:
+    I7BB349D3: f14a65bb829d45fbb3531c71a34fad1c
+    IEC49DE20: f5d0cd4b50ca437ca6a038b23f519fd7
